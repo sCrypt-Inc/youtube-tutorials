@@ -1,0 +1,3 @@
+[submodule "voting"]
+	path = voting
+	url = git@github.com:sCrypt-Inc/voting.git
